@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/study/study.iml" filepath="$PROJECT_DIR$/study/study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study/study-api/study-api.iml" filepath="$PROJECT_DIR$/study/study-api/study-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study/study-api/study-api-deal/study-api-deal.iml" filepath="$PROJECT_DIR$/study/study-api/study-api-deal/study-api-deal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study/study-api/study-api-mq/study-api-mq.iml" filepath="$PROJECT_DIR$/study/study-api/study-api-mq/study-api-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study/study-api/study-api-user/study-api-user.iml" filepath="$PROJECT_DIR$/study/study-api/study-api-user/study-api-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study/study-common/study-common.iml" filepath="$PROJECT_DIR$/study/study-common/study-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study/study-core/study-core.iml" filepath="$PROJECT_DIR$/study/study-core/study-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study/study-core/study-core-deal/study-core-deal.iml" filepath="$PROJECT_DIR$/study/study-core/study-core-deal/study-core-deal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study/study-core/study-core-mq/study-core-mq.iml" filepath="$PROJECT_DIR$/study/study-core/study-core-mq/study-core-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study/study-nacos/study-nacos.iml" filepath="$PROJECT_DIR$/study/study-nacos/study-nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study/study-web/study-web.iml" filepath="$PROJECT_DIR$/study/study-web/study-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study/study-web2/study-web2.iml" filepath="$PROJECT_DIR$/study/study-web2/study-web2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study/study-zuul/study-zuul.iml" filepath="$PROJECT_DIR$/study/study-zuul/study-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/studysecond.iml" filepath="$PROJECT_DIR$/.idea/studysecond.iml" />
+    </modules>
+  </component>
+</project>

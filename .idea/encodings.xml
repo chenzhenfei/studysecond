@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/study" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/study/study-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/study/study-api/study-api-deal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/study/study-api/study-api-mq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/study/study-api/study-api-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/study/study-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/study/study-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/study/study-core/study-core-deal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/study/study-core/study-core-mq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/study/study-nacos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/study/study-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/study/study-web2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/study/study-zuul" charset="UTF-8" />
+  </component>
+</project>
